@@ -38,9 +38,6 @@ h1 a:hover{
     color: darkred; 
 }
 
-h1 a:first-child {
-}
-
 p {
     color:white /* Black background */
 }
